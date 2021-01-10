@@ -1,0 +1,32 @@
+.full-height{
+    height: 10vh;
+}
+
+.center-content{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+._logo{
+    font-size: 35px;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Lobster', cursive;
+    color: white;
+}
+
+.a-no-deco{
+    text-decoration: none !important;
+    color: white !important;
+}
+
+.landing-menu-option{
+    width: 60px;
+    height: 30px;
+    border-radius: 15px;
+    transition: 1s;
+}
+.landing-menu-option:hover{
+    transition: 1s;
+    background-color: rgba(255, 0, 140, 0.993);
+}

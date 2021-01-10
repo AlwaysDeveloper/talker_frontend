@@ -1,0 +1,22 @@
+.header-main{
+    height: 10vh;
+}
+
+.logo{
+    height: 100%;
+    background-color: rgb(151, 10, 10);
+}
+
+.menu{
+    height: 100%;
+    background-color: gainsboro;
+}
+
+ul{
+    right: 0%;
+    list-style-type: none;
+}
+
+li{
+    float: left;
+}

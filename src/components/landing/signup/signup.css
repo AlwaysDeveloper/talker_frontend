@@ -1,0 +1,23 @@
+.signup-card{
+    padding-top: 30px;
+    border-radius: 30px;
+    /* background-color: rgba(0, 128, 0, 0.425); */
+}
+
+.signup-heading{
+    padding-left: 10px;
+    font-size: 40px;
+    margin-bottom: 25px;
+}
+.form-control{
+    border: none;
+    border-bottom: 1px solid #ced4da;
+    border-radius: 0;
+}
+.form-control:focus{
+    color:#495057;
+    background-color:#fff;
+    border-color:#80bdff;
+    outline:0;
+    box-shadow:0 8px 6px -6px rgba(0,123,255,.25)
+}
